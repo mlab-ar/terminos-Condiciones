@@ -1,2 +1,2 @@
 # terminos-Condiciones
-Terminos y condiciones generales de Matelab.
+Terminos y condiciones generales de The Bit.
